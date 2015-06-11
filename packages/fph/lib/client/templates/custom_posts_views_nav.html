@@ -1,0 +1,9 @@
+<template name="custom_posts_views_nav">
+  {{#if showNav}}
+    <div class="nav header-module desktop-only custom-posts-list posts-list-views grid-module">
+      <div class="content-wrapper">
+        {{> menuComponent menuName="view" menuItems=menuItems mode="list"}}
+      </div>
+    </div>
+  {{/if}}
+</template>

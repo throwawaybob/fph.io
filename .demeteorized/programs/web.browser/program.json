@@ -1,0 +1,164 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "57ff9cefe1d2c456f80ddeb1c4aeb07a45dec84f.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/57ff9cefe1d2c456f80ddeb1c4aeb07a45dec84f.js",
+      "size": 1362081,
+      "hash": "57ff9cefe1d2c456f80ddeb1c4aeb07a45dec84f"
+    },
+    {
+      "path": "6ded5616687bddb50d0dd076ceaf728d25329851.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/6ded5616687bddb50d0dd076ceaf728d25329851.css?meteor_css_resource=true",
+      "size": 92127,
+      "hash": "6ded5616687bddb50d0dd076ceaf728d25329851"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.eot",
+      "size": 60767,
+      "hash": "3e63fc9b3de4580f1f3bec0631436f755b80f167"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.svg",
+      "size": 313398,
+      "hash": "26bb1c5ef100a1cd71923f1d5dc29fc797ef4639"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.ttf",
+      "size": 122092,
+      "hash": "9088143b19979779b2116cef38b661f72d982e19"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.woff",
+      "size": 71508,
+      "hash": "56ce13e71c2150d81bc972940584915181bd6081"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.woff2",
+      "size": 56780,
+      "hash": "1075231650f579955905bb2f6527148a8e2b4b16"
+    },
+    {
+      "path": "packages/utilities_avatar/default.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/utilities_avatar/default.png",
+      "size": 1577,
+      "hash": "76ec76887e4c748e6358a2aaf9b57006567f8999"
+    },
+    {
+      "path": "packages/telescope_core/public/img/default-avatar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope_core/public/img/default-avatar.png",
+      "size": 4377,
+      "hash": "ea0eb98f33480ab75ff9396c227d0e06e4b7b4ef"
+    },
+    {
+      "path": "packages/telescope_core/public/img/loading-balls.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope_core/public/img/loading-balls.svg",
+      "size": 1377,
+      "hash": "4b68d0ee62f67916570ba998319f6b66e5ce83de"
+    },
+    {
+      "path": "packages/telescope_core/public/img/loading.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope_core/public/img/loading.svg",
+      "size": 1639,
+      "hash": "e209c32ad50816f31ab8d63bb7a4c21971ebea02"
+    },
+    {
+      "path": "packages/telescope_datetimepicker/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope_datetimepicker/fonts/glyphicons-halflings-regular.eot",
+      "size": 20335,
+      "hash": "f3a9a3b609133c3d21d6b42abbf7f43bd111df72"
+    },
+    {
+      "path": "packages/telescope_datetimepicker/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope_datetimepicker/fonts/glyphicons-halflings-regular.svg",
+      "size": 62926,
+      "hash": "66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa"
+    },
+    {
+      "path": "packages/telescope_datetimepicker/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope_datetimepicker/fonts/glyphicons-halflings-regular.ttf",
+      "size": 41280,
+      "hash": "aafafdc09404c4aa4447d7e898a2183def9cc1b1"
+    },
+    {
+      "path": "packages/telescope_datetimepicker/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope_datetimepicker/fonts/glyphicons-halflings-regular.woff",
+      "size": 23320,
+      "hash": "22037a3455914e5662fa51a596677bdb329e2c5c"
+    },
+    {
+      "path": "packages/telescope_getting-started/content/images/stackoverflow.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope_getting-started/content/images/stackoverflow.png",
+      "size": 4603,
+      "hash": "603d20c54eb5de67702314d66e95da0a4c7cf08c"
+    },
+    {
+      "path": "packages/telescope_getting-started/content/images/telescope.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope_getting-started/content/images/telescope.png",
+      "size": 26004,
+      "hash": "d8b5220a929413bd8dd37226b9f3efa05a813b23"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "e13a9d568d2ad297627ad17aeebf6532553187ff"
+    }
+  ]
+}
